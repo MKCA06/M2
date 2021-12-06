@@ -49,7 +49,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
- ![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKCA06&show_icons=true&theme=radical)
+ ![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKCA06&show_icons=true&theme=tokyonight)
 
 
 </details>
