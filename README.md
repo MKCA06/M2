@@ -90,8 +90,8 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCY_u-M4oh2OGc7AMEwLTULQ/codeSTACKr
+[instagram]: https://www.instagram.com/manikchadha0609//codeSTACKr
 [linkedin]: https://www.linkedin.com/in/manik-chadha-2516bb221/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
