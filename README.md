@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on TEC Projects
+- 👯 I’m looking to collaborate on Django Projects
 - 📫 How to reach me:EMAIL:manikchadha0609@gmail.com,INSTA:[@manikchadha0609](https://www.instagram.com/manikchadha0609/)
 - 😄 Pronouns: he/his
 ### Connect with me:
@@ -49,7 +49,8 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKCA06&show_icons=true&theme=radical)
+
 
 </details>
 
