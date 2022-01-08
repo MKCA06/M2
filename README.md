@@ -75,12 +75,4 @@
 <br>
  <img width="1500" height="auto" align="center" alt="Manik's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=sidB67&row=1&column=7&theme=darkhub&margin-w=15e" />
-<p align="center">
- <br>
-  <br>
-    :arrow_down: Scroll down to see my top repositories :arrow_down:
-    <br>
-    <b>
-      Show some ❤️ by starring some of the repositories!
-    </b>
-</p>
+
