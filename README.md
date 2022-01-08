@@ -68,3 +68,19 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+<br>
+<br>
+<br>
+ <img width="1500" height="auto" align="center" alt="Manik's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=sidB67&row=1&column=7&theme=darkhub&margin-w=15e" />
+<p align="center">
+ <br>
+  <br>
+    :arrow_down: Scroll down to see my top repositories :arrow_down:
+    <br>
+    <b>
+      Show some ❤️ by starring some of the repositories!
+    </b>
+</p>
