@@ -1,11 +1,13 @@
 <H1 align="center">#Hi there, I'm Manik Chadha 👋</H1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu1103&label=Profile%20views&color=0e75b6&style=flat" alt="MKCA06" /> </p>
-
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Django Projects
-- 📫 How to reach me:EMAIL:manikchadha0609@gmail.com,INSTA:[@manikchadha0609](https://www.instagram.com/manikchadha0609/)
-- 😄 Pronouns: he/his
+<p><img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="MKCA06"/></p>
+<p>
+- 🔭 I’m currently working on web development <br>
+- 🌱 I’m currently learning everything 🤣 <br>
+- 👯 I’m looking to collaborate on Django Projects <br>
+- 📫 How to reach me: EMAIL:manikchadha0609@gmail.com, INSTA:[@manikchadha0609](https://www.instagram.com/manikchadha0609/) <br>
+- 😄 Pronouns: he/his<br>
+ </p>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
