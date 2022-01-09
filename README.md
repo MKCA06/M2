@@ -1,4 +1,4 @@
-### Hi there, I'm Manik Chadha 👋  
+<H1 align="center">### Hi there, I'm Manik Chadha 👋</H1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu1103&label=Profile%20views&color=0e75b6&style=flat" alt="MKCA06" /> </p>
 
 - 🔭 I’m currently working on web development
