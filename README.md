@@ -8,7 +8,9 @@
 - 📫 How to reach me: EMAIL:manikchadha0609@gmail.com, INSTA:[@manikchadha0609](https://www.instagram.com/manikchadha0609/) <br>
 - 😄 Pronouns: he/his<br>
  </p>
-### Connect with me:
+
+
+<H6>### Connect with me: </H6>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
