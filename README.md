@@ -66,7 +66,7 @@
 [youtube]: https://www.youtube.com/channel/UCY_u-M4oh2OGc7AMEwLTULQ/codeSTACKr
 [instagram]: https://www.instagram.com/manikchadha0609/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/manik-chadha-2516bb221/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
