@@ -3,29 +3,25 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mkca06&label=Profile%20views&color=0e75b6&style=flat" alt="MKCA06" />
 </p>
-![](https://komarev.com/ghpvc/?username=MKCA06&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=MKCA06&color=blue) -->
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="Manik Chadha" />
 </p>
 <p>
-- 🔭 I’m currently working on web development <br>
-- 🌱 I’m currently learning everything 🤣 <br>
-- 👯 I’m looking to collaborate on Django projects <br>
+- ⛅ I'm currently working on Machine Learning
+- 🌱 I’m currently learning Node Js, Mongo DB
+- ⌚ I’m looking to collaborate on Backend Projects
+- 🤔 I'm looking for help with data structures and algorithms
 - 📫 How to reach me: <a href="mailto:manikchadha0609@gmail.com">manikchadha0609@gmail.com</a>, 
   <a href="https://www.instagram.com/manikchadha0609/">@manikchadha0609</a> <br>
 - 😄 Pronouns: he/his<br>
 </p>
 
-[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudranshbansal&show_icons=true&theme=tokyonight)](https://github.com/rudranshbansal/github-readme-stats)
+ ![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKCA06&show_icons=true&theme=merko) <br>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MKCA06&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKCA06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rudranshbansal&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudranshbansal&layout=compact&theme=cobalt)](https://github.com/rudranshbansal/github-readme-stats)
-<!---
-rudranshbansal/rudranshbansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Technologies I use:
 
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" height="50">
