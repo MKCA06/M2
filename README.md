@@ -5,7 +5,7 @@
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=MKCA06&color=blue) -->
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="Manik Chadha" />
 </p>
 <p>
