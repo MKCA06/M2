@@ -8,18 +8,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="Manik Chadha" />
 </p>
-<p>
-- ⛅ I'm currently working on Machine Learning <br>
-- 🌱 I’m currently learning Node Js, Mongo DB <br>
-- ⌚ I’m looking to collaborate on Backend Projects <br>
-- 🤔 I'm looking for help with data structures and algorithms <br>
-- 📫 How to reach me: <a href="mailto:manikchadha0609@gmail.com">manikchadha0609@gmail.com</a>, 
-  <a href="https://www.instagram.com/manikchadha0609/">@manikchadha0609</a> <br>
-- 😄 Pronouns: he/his<br>
-</p>
+# 💫 About Me:
+- ⛅ I'm currently working on Machine Learning<br>- 🌱 I’m currently learning Node Js, Mongo DB<br>- ⌚ I’m looking to collaborate on Backend Projects<br>- 🤔 I'm looking for help with data structures and algorithms<br>- 📫 How to reach me: manikchadha0609@gmail.com, @manikchadha0609<br>- 😄 Pronouns: he/his
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manikchadha0609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-chadha-2516bb221) 
 
-## Technologies I use:
 
+# 💻 Tech Stack:
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="50" height="50">
@@ -43,7 +38,24 @@
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50" height="50">
 
-## Some Stats:
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MKCA06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MKCA06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MKCA06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MKCA06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=MKCA06&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ## Some Stats:
 <center>
 <img width="1500" height="auto" align="center" alt="Manik's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=MKCA06&row=1&column=7&theme=darkhub&margin-w=15e" />
@@ -61,4 +73,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCY_u-M4oh2OGc7AMEwLTULQ/codeSTACKr
 [instagram]: https://www.instagram.com/manikchadha0609/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/manik-chadha-2516bb221/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/manik-chadha-2516bb221/codeSTACKr -->
