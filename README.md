@@ -10,8 +10,11 @@
 </p>
 # 💫 About Me:
 - ⛅ I'm currently working on Machine Learning<br>- 🌱 I’m currently learning Node Js, Mongo DB<br>- ⌚ I’m looking to collaborate on Backend Projects<br>- 🤔 I'm looking for help with data structures and algorithms<br>- 📫 How to reach me: manikchadha0609@gmail.com, @manikchadha0609<br>- 😄 Pronouns: he/his
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manikchadha0609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-chadha-2516bb221) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manikchadha0609) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-chadha-2516bb221) 
+
 
 
 # 💻 Tech Stack:
