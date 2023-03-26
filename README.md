@@ -1,7 +1,7 @@
 <!-- Header section -->
 <h1 align="center">Hi there, I'm Manik Chadha 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkca06&label=Profile%20views&color=0e75b6&style=flat" alt="MKCA06" />
+<!--   <img src="https://komarev.com/ghpvc/?username=mkca06&label=Profile%20views&color=0e75b6&style=flat" alt="MKCA06" /> -->
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=MKCA06&color=blue) -->
 
