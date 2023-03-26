@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="Manik Chadha" />
 </p>
-# 💫 About Me:
+# 💫 About Me: <br>
 - ⛅ I'm currently working on Machine Learning<br>- 🌱 I’m currently learning Node Js, Mongo DB<br>- ⌚ I’m looking to collaborate on Backend Projects<br>- 🤔 I'm looking for help with data structures and algorithms<br>- 📫 How to reach me: manikchadha0609@gmail.com, @manikchadha0609<br>- 😄 Pronouns: he/his
 
 ## 🌐 Socials:
