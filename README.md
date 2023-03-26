@@ -8,8 +8,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" alt="Manik Chadha" />
 </p>
-# 💫 About Me: <br>
-- ⛅ I'm currently working on Machine Learning<br>- 🌱 I’m currently learning Node Js, Mongo DB<br>- ⌚ I’m looking to collaborate on Backend Projects<br>- 🤔 I'm looking for help with data structures and algorithms<br>- 📫 How to reach me: manikchadha0609@gmail.com, @manikchadha0609<br>- 😄 Pronouns: he/his
+
+# 💫About me: 
+- ⛅ I'm currently working on Machine Learning<br>- 🌱 I’m currently learning Node Js, Mongo DB<br>- ⌚ I’m looking to collaborate on Backend Projects<br>- 🤔 I'm looking for help with data structures and algorithms<br>- 📫 How to reach me: Email: <a href="mailto:manikchadha0609@gmail.com">manikchadha0609@gmail.com</a>
+Instagram: <a href="https://www.instagram.com/manikchadha0609/">@manikchadha0609</a><br>- 😄 Pronouns: he/his
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manikchadha0609) 
