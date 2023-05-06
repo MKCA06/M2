@@ -61,6 +61,8 @@ Instagram: <a href="https://www.instagram.com/manikchadha0609/">@manikchadha0609
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MKCA06&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.github.com/csinha134" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MKCA06?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <!-- ## Some Stats:
 <center>
 <img width="1500" height="auto" align="center" alt="Manik's github stats" 
