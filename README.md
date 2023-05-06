@@ -48,6 +48,7 @@ Instagram: <a href="https://www.instagram.com/manikchadha0609/">@manikchadha0609
 ![](https://github-readme-stats.vercel.app/api?username=MKCA06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MKCA06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MKCA06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/csinha134"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKCA06&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MKCA06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
